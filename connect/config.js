@@ -7,7 +7,7 @@ Other*/
 global.thum = fs.readFileSync("./worker/media/image/thumb.jpg")
 global.log0 = fs.readFileSync("./worker/media/image/thumb.jpg")
 global.err4r = fs.readFileSync("./worker/media/image/thumb.jpg")
-global.owner = ['6289501060783','6289501060783','6289501060783']
+global.owner = ['6288287037007','6288287037007','6288287037007']
 global.footer = "Deffbotz ~ Deff"
 global.fake = "Deffbotz ~ Deff"
 global.namebot = "DEFFBOTZ - DEFF"
@@ -39,8 +39,8 @@ global.mess = {
     ban: 'Kamu telah dibanned oleh owner, Jika ingin di unbanned chat owner'
 }
 global.BerryAwal = 5000
-global.limitAwal= 20
-global.gamewaktu = 50
+global.limitAwal= 200000
+global.gamewaktu = 50000
 global.waktu = 60000
 
 //-[❌Jangan Ubah bagian ini❌]
